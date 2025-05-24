@@ -216,7 +216,7 @@ The book does not claim that machines have minds, but rather that **some should 
 
 > **Philosophy, science, technology, and regulation must work together** to design future coexistence with non-human agents.
 
-## 🧭 Final Keys
+## Final Keys
 
 1. **Agency** is a more productive concept than intelligence for understanding machines.
 2. Some machines **already qualify as agents**.
