@@ -5,6 +5,8 @@
 
 ### Publisher: Massachusetts Institute of Technology
 
+### e-ISBN: 9780262380973
+
 ## Key Conclusions
 
 ### What is **agency**?
