@@ -18,10 +18,13 @@ Intentar medir la depresión solo con serotonina es como intentar entender el tr
 
 ### **Capítulo 2: La Trampa de las Etiquetas (Crítica al DSM)**
 
-Khayretdinova disecciona por qué el Manual Diagnóstico y Estadístico (DSM) es insuficiente.
+La psiquiatría decidió inventarse un idioma para no admitir que estaba perdida. El protagonista aquí es el DSM, ese manual que ha pasado de ser un folleto de 130 páginas a un tomo de mil hojas que parece querer patologizarlo todo.
 
-* **Concepto clave:** **Heterogeneidad Fenotípica**. Bajo la etiqueta de "Depresión" conviven realidades biológicas opuestas (unos duermen mucho, otros nada; unos están agitados, otros inhibidos).
-* **Conexión universal:** La tendencia humana a categorizar para reducir la ansiedad ante lo desconocido, aunque la categoría sea inexacta.
+La idea de Khayretdinova es tan simple como devastadora: hemos caído en la Heterogeneidad Fenotípica. Es un nombre largo para decir algo simple: que bajo la etiqueta de "Depresión Mayor" metemos a personas que no comparten absolutamente nada. Es el triunfo de la estadística sobre la biología. La autora menciona que, siguiendo las reglas del manual, existen 227 combinaciones posibles de síntomas para diagnosticar una depresión. Es decir, usted y yo podríamos ser diagnosticados con lo mismo sin tener un solo síntoma en común. Es, matemáticamente hablando, un despropósito.
+
+Pasamos de la observación del individuo a convertir al psiquiatra en un contable. Ya no importa quién es el sujeto, sino si suma 5 de los 9 puntos de la lista. Esta "contabilidad del dolor" es la que permite que las aseguradoras paguen y que las farmacéuticas vendan, pero deja al paciente en un limbo donde su "biotipo" real es invisible.
+
+Al final, la etiqueta no es un mapa del cerebro, es solo un código de barras para que el sistema siga girando. Tratamos el nombre de la enfermedad, no el cableado del enfermo. Y ese es el verdadero horror: "tallas únicas" que no le quedan bien a nadie.
 
 ### **Capítulo 3: El Mercado de la Desesperación (Economía y Farmacia)**
 
