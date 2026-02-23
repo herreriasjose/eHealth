@@ -21,9 +21,6 @@ El Capítulo 1, analiza la psiquiatría actual desde la perspectiva de quien pad
 * **Riesgos de la autoayuda y el diagnóstico fallido:** La literatura de autoayuda no regulada puede provocar el **síndrome de la falsa esperanza**, donde el paciente internaliza sentimientos de fracaso si no logra "sanar" mediante métodos sin rigor clínico. Esta desinformación genera tres consecuencias graves: aumenta la angustia emocional, provoca diagnósticos erróneos basados en etiquetas virales y elimina la urgencia de buscar ayuda profesional al crear una ilusión de comprensión del problema .
 
 
-
-En resumen, el capítulo concluye que la psiquiatría se encuentra estancada por su dependencia de informes subjetivos y la falta de herramientas que confirmen o definan las experiencias del paciente de manera irrefutable.
-
 ### **Capítulo 2: La Trampa de las Etiquetas (Crítica al DSM)**
 
 La psiquiatría decidió inventarse un idioma para no admitir que estaba perdida. El protagonista aquí es el DSM, ese manual que ha pasado de ser un folleto de 130 páginas a un tomo de mil hojas que parece querer patologizarlo todo.
