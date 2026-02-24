@@ -1,4 +1,4 @@
-# Ryuta Kawashima in eHealth
+# Brain Training, Nintendo and Ryuta Kawashima in eHealth
 
 Ryuta Kawashima, born on May 23, 1959, in Chiba, Japan, is a neuroscientist renowned for his research in neurophysiology and brain imaging, focusing on mapping brain regions associated with emotions, language, memory, and cognition. He graduated in medicine from Tohoku University and worked as a visiting researcher at the Karolinska Institute in Sweden before returning to Tohoku, where he is now a full professor. His work has had a significant impact on applied neuroscience, especially through his collaboration with Nintendo on the *Brain Age* series, known in some markets as *Brain Training*.
 
