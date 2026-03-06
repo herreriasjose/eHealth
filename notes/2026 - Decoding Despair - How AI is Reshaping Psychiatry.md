@@ -84,3 +84,8 @@ En el entorno clínico, las herramientas de apoyo al psiquiatra optimizan la efi
 
 Aunque existe escepticismo sobre la capacidad de los modelos actuales para actuar como terapeutas empáticos debido a su naturaleza estadística, el futuro de la psicoterapia de precisión se orienta hacia el uso de datos para determinar qué modalidad terapéutica —sea cognitivo-conductual, EMDR o dialéctica— será más efectiva para cada individuo según su neurobiología y preferencias cognitivas . En última instancia, el impacto transformador de la tecnología en psiquiatría no se manifestará únicamente a través de hitos disruptivos, sino mediante una acumulación de mejoras sistémicas incrementales que reduzcan costes, errores operativos y burocracia . Este avance progresivo promete convertir los trastornos mentales de condiciones incomprensibles y estigmatizadas en disfunciones gestionables y predecibles para la salud pública global.
 
+
+### **Capítulo 10: El mañana donde el espejo te juzga**
+
+
+TODO
